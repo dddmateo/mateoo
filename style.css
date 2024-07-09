@@ -1,0 +1,23 @@
+
+h1
+{
+    text-align: center;
+    text-decoration: overline;
+    color: rgb(0, 4, 255);
+    background-color: rgb(221, 87, 181);
+}
+
+h2
+{font-weight: normal; 
+   color: rgb(146, 10, 10);
+   background-color: rgb(127, 255, 165);
+}
+
+h3
+{
+    font-size: medium; 
+    color: rgb(12, 115, 211);
+     background-color: rgb(231, 53, 29);
+}
+
+
